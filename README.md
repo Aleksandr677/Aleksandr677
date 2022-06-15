@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **creating any interesting projects**
 
-- 🤝 I’m looking for help with **multithreading in swift**
+- 🤝 I’m looking for help with **getting any professional experience in iOS development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aleksandr677](https://github.com/Aleksandr677)
 
