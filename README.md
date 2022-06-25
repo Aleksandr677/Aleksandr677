@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [ToDoApp](https://github.com/Aleksandr677/ToDoeyApp)
 
-- 🌱 I’m currently learning **"iOS Animations by Tutorials of Ray Wenderlich"**
+- 🌱 I’m currently learning **"Design Patterns by Tutorials of Ray Wenderlich"**
 
 - 👯 I’m looking to collaborate on **creating any interesting projects**
 
