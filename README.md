@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleksandr677&label=Profile%20views&color=0e75b6&style=flat" alt="aleksandr677" /> </p>
 
-- 🔭 I’m currently working on [ToDoApp](https://github.com/Aleksandr677/ToDoeyApp)
+- 🔭 I’m currently working on [Netflix_Clone](https://github.com/Aleksandr677/Netflix_Clone)
 
-- 🌱 I’m currently learning **"Design Patterns by Tutorials of Ray Wenderlich"**
+- 🌱 I’m currently learning **"Design Patterns in iOS"**
 
 - 👯 I’m looking to collaborate on **creating any interesting projects**
 
