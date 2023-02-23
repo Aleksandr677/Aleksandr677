@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleksandr677&label=Profile%20views&color=0e75b6&style=flat" alt="aleksandr677" /> </p>
 
-- 🔭 I’m currently working on [Uber_Clone]
+- 🔭 I’m currently creating my own app which is about horoscope information. 
 
-- 🌱 I’m currently learning **"Combine"**
+- 🌱 I’m currently learning **Flutter and Dart**
 
 - 👯 I’m looking to collaborate on **creating any interesting projects**
 
