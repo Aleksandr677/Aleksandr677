@@ -1,8 +1,7 @@
-![MasterHead](https://www.fegno.com/wp-content/uploads/2022/03/mobile-app-development-company.gif)
 <h1 align="center">Hi 👋, I'm Aleksandr Khristichenko</h1>
 <h3 align="center">an iOS Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://retouchingcentral.com/wp-content/uploads/2019/03/matrix-10.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleksandr677&label=Profile%20views&color=0e75b6&style=flat" alt="aleksandr677" /> </p>
 
