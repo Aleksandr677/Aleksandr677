@@ -4,4 +4,4 @@
 <h2 align="left">📫 How to reach me</h2>
 
    - email: **alexanderhristichenko@yandex.ru**
-   - telegramm: **@alex_khristichenko**
+   - telegram: **@alex_khristichenko**
