@@ -3,5 +3,6 @@
 
 <h2 align="left">📫 How to reach me</h2>
 
-   - email: **alexanderhristichenko@yandex.ru**
+   - email: **khristichenko.job@gmail.com**
    - telegram: **@alex_khristichenko**
+   - [LinkedIn](https://www.linkedin.com/in/aleksandr-khristichenko/)
